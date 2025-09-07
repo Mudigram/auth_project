@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@example.com",
+      "password": "password123",
+      "role": "admin"
+    },
+    {
+      "id": "abef",
+      "email": "omene.mudiaga@gmail.com",
+      "password": "tttttttttt",
+      "role": "user"
+    },
+    {
+      "id": "1cdd",
+      "email": "zeupiter.ng@gmail.com",
+      "password": "Zeupiter@01",
+      "role": "user"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "First Post",
+      "content": "Hello World!"
+    }
+  ]
+}
